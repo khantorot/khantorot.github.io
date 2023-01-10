@@ -1,0 +1,49 @@
+:root{
+    --text: white;
+    --bg: black;
+    --index: blue;
+}
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+*::selection{
+    background: var(--text);
+    color: var(--bg);
+}
+
+body{
+    overflow-x: hidden;
+    background: var(--bg);
+    color: var(--text);
+    font-family: monospace;
+}
+
+a{
+    color: var(--text);
+    text-decoration: none;
+    outline: none;
+}
+
+textarea, button, input{
+    border: 0;
+    outline: 0;
+    color: var(--text);
+    background: var(--bg);
+    border: 1px solid var(--bg);
+    font-family: monospace;
+    transition:  background ease-out 0.5s;
+}
+
+
+input::placeholder, textarea::placeholder{
+    font-family: monospace;
+    color: var(--text);
+}
