@@ -1,13 +1,21 @@
 # Title 🌱
 
-[Project](https://forem.com) - description text
+Description text
 
-## Usage
+[open project +](https://khantorot.github.io/")
 
-```
-test
-```
+<!-- ## About -->
 
----
+<!-- ## Usage -->
 
-[↑ back to top](#forem)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+
+khantorot@gmail.com
+
+##
+
+[back to top ↑](#top)
