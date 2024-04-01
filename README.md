@@ -1,32 +1,13 @@
-<br />
-<div align="center">
-  <a href="#top">
-    <img src="content/icons/shortcut.png" alt="logo" width="80" height="80">
-  </a>
+# Title 🌱
 
-  <h3 align="center">root</h3>
+[Project](https://forem.com) - description text
 
-  <p align="center">
-    Github root.
-    <br />
-    <br />
-    <a href="https://khantorot.github.io">view project +</a>
+## Usage
 
-  </p>
-</div>
-<br />
+```
+test
+```
 
+---
 
-
-
-
-### Contact
-
-Email - khantorot@gmail.com
-
-
-
-
-
-<br />
-<p align="center"><a href="#top">back to top ↑</a></p>
+[↑ back to top](#forem)
