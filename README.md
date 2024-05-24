@@ -2,7 +2,7 @@
 
 Description
 
-[`project ↗`](https://khantorot.github.io/*)
+[**`project ↗`**](https://khantorot.github.io/*)
 
 ## Author
 
